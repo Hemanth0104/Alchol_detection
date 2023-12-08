@@ -1,8 +1,8 @@
 
-# Andrew Paul - AM.EN.U4AIE20122.
-# Hemanth Pusuluri - AM.EN.4AIE20157.
+## Andrew Paul - AM.EN.U4AIE20122.
+## Hemanth Pusuluri - AM.EN.4AIE20157.
 
-## Alchol_detection
+# Alchol_detection
 
 This Arduino code is designed for an Alcohol Detection system. It appears to be a part of a project involving a sensor to detect alcohol levels, a LiquidCrystal display for output, LEDs, a buzzer, and a button for user input. Here's a breakdown of the code:
 
